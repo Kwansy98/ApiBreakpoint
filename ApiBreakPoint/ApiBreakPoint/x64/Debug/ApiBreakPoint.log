@@ -1,6 +1,6 @@
 ﻿  plugin.cpp
-d:\workspace\apibreakpoint\apibreakpoint\apibreakpoint\plugin.cpp(700): warning C4312: “类型强制转换”: 从“const UINT”转换到更大的“HMENU”
-d:\workspace\apibreakpoint\apibreakpoint\apibreakpoint\plugin.cpp(712): warning C4312: “类型强制转换”: 从“const UINT”转换到更大的“HMENU”
+d:\workspace\apibreakpoint\apibreakpoint\apibreakpoint\plugin.cpp(1049): warning C4312: “类型强制转换”: 从“const UINT”转换到更大的“HMENU”
+d:\workspace\apibreakpoint\apibreakpoint\apibreakpoint\plugin.cpp(1061): warning C4312: “类型强制转换”: 从“const UINT”转换到更大的“HMENU”
   pluginmain.cpp
   正在生成代码...
     正在创建库 D:\workspace\ApiBreakpoint\ApiBreakPoint\output\ApiBreakPoint.lib 和对象 D:\workspace\ApiBreakpoint\ApiBreakPoint\output\ApiBreakPoint.exp

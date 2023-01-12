@@ -181,7 +181,6 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="api.h" />
     <ClInclude Include="plugin.h" />
     <ClInclude Include="pluginmain.h" />
   </ItemGroup>

@@ -5,4 +5,6 @@
   ApiBreakPoint.vcxproj -> D:\workspace\ApiBreakpoint\ApiBreakPoint\output\ApiBreakPoint.dp32
   D:\workspace\ApiBreakpoint\ApiBreakPoint\output\
   已复制         1 个文件。
-  已复制         1 个文件。
+  系统找不到指定的文件。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: 命令“call D:\workspace\ApiBreakpoint\ApiBreakPoint\output\copy.bat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd”已退出，代码为 1。

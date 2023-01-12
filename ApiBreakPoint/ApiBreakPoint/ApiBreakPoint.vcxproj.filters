@@ -21,9 +21,6 @@
     <ClInclude Include="pluginmain.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="api.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="plugin.cpp">
