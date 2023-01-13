@@ -25,7 +25,7 @@ void pluginStop();
 void pluginSetup();
 
 
-#define MAINWINDOW_WIDTH 840
+#define MAINWINDOW_WIDTH 1000
 #define MAINWINDOW_HEIGHT 600
 
 const UINT IDC_TABCTRL = __COUNTER__ + 1500;
